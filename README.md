@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%90+Network+Engineer+%7C+Cisco+CCNA;%F0%9F%93%B1+Flutter+%26+Kotlin+App+Developer;%F0%9F%8E%A8+Graphic+Designer+%26+Brand+Identity;%F0%9F%87%B8%F0%9F%87%A9+Based+in+Kosti%2C+Sudan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%90+Network+Engineer+%7C+CCNP+%26+CCNA+Certified;%F0%9F%93%B1+Flutter+%26+Kotlin+App+Developer;%F0%9F%A4%96+Network+Automation+%7C+Python+%26+Ansible;%F0%9F%87%B8%F0%9F%87%A9+Based+in+Kosti%2C+Sudan" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,8 @@
 
 <!-- Social Links -->
 <p>
-  <a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D9%88%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-080990328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahmoud-engineer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Mahamud199mohamed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.facebook.com/Mahamoud199"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/mahmoud_199mohamed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/mmwdmmd554019"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -39,25 +40,32 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```yaml
-name: Mahmoud Mohammed Mohammed Saeed  # محمود محمد محمد سعيد
+name: Mahmoud Mohamed Saeed  # محمود محمد سعيد
+role: IT Engineer | Network Automation | Software Developer
 located_in: Kosti, Sudan 🇸🇩
+email: Mahamud199mohamed@gmail.com
+phone: +249 0904628457 | +249 0110218812
 university: White Nile University — Faculty of Computer Science & IT (2022–2026)
-major: Information Technology (Network Engineering Focus)
+major: BSc Information Technology
 gpa: 80.86% (6th Semester)
-certifications: CCNP Enterprise (2026), CCNA 200-301 (2024), Microsoft Office Suite, Java, C++
-languages: [Arabic (Native), English]
+certifications:
+  - CCNP Enterprise (Network Plus Institute, 2026)
+  - CCNA 200-301 (Network Plus Institute, 2024)
+  - Mobile App Development — Flutter (White Nile University, 2024)
+languages: [Arabic (Native), English (Intermediate)]
 ```
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
 
 - 🎓 **IT Student** at White Nile University — CS & IT Faculty
-- 🌐 **Network Engineer** — Cisco Certified Network Professional (CCNP) & Associate (CCNA)
-- ⚙️ **Network Automation** — Python (Netmiko), Ansible, EVE-NG, GNS3
-- 📱 **App Developer** — Flutter, Kotlin, Java, Android
-- 🎨 **Graphic Designer** — Brand identity, social media, posters
-- 🔬 **Graduation Project**: *SudaNet* — Enterprise network with Site-to-Site VPN, Firewall, DMZ & Windows Server
+- 🌐 **Network Engineer** — CCNP & CCNA Certified | OSPF, BGP, VPN, Site-to-Site IPSec
+- ⚙️ **Network Automation** — Python, Netmiko, Ansible, Nornir, EVE-NG, GNS3
+- 📱 **App Developer** — Flutter, Kotlin, Java, Android & iOS
+- 🎨 **Graphic Designer** — Logo, Brand Identity, UI/UX
+- 🤖 **AI & Data** — Machine Learning, Data Mining, Computer Vision
+- 🔬 **Graduation Project**: *Naja7 AI* — Intelligent Agricultural Assistant (Computer Vision, Arabic NLP, Data Mining)
 - 📊 **12+ completed projects** | **20+ happy clients** | **4+ years experience**
-- 🎯 **Goal**: Professional career in Network Engineering & IT with modern tech solutions
+- 🎯 **Goal**: Professional career in Network Engineering & IT Infrastructure
 
 <br clear="both"/>
 
@@ -70,20 +78,26 @@ languages: [Arabic (Native), English]
 ### 🌐 Network Engineering
 <p>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/OSPF-006400?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/VPN-4A154B?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/BGP-2E8B57?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN_%26_IPSec-4A154B?style=for-the-badge&logo=wireguard&logoColor=white" />
   <img src="https://img.shields.io/badge/VLAN-FF6F00?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/ACL-DC143C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/DHCP-228B22?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Firewall-B22222?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
-### 🧪 Network Simulation
+### 🧪 Network Simulation & Automation
 <p>
   <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/GNS3-2C8EBB?style=for-the-badge&logo=gnometerminal&logoColor=white" />
   <img src="https://img.shields.io/badge/EVE--NG-FF4500?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netmiko-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nornir-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
@@ -124,9 +138,18 @@ languages: [Arabic (Native), English]
   <img src="https://img.shields.io/badge/UI/UX_Design-6366F1?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+### 🤖 AI & Data
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Mining-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge&logo=spacy&logoColor=white" />
+</p>
+
 ### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -163,17 +186,20 @@ languages: [Arabic (Native), English]
 ### 🚚 Mahmoud Delivery App (Wassel) — تطبيق توصيل طلبات ذكي
 > Feature-rich Flutter app with route optimization, AI chatbot, multi-role dashboards & digital wallet
 
-### 🎓 SudaNet — مشروع التخرج
-> Enterprise network infrastructure with Site-to-Site VPN, Firewall, DMZ, Windows Server & network services
+### 🌱 Naja7 AI — مساعد زراعي ذكي (Graduation Project)
+> AI-powered agricultural assistant for Sudanese farmers — Computer Vision (crop disease detection), Arabic NLP (Sudanese dialect), Data Mining & Marketing AI
 
-### 🏫 School Management System — نظام إدارة مدرسة
-> Complete school management with student records, grades, attendance & reporting
+### 🔧 Enterprise Network Automation Lab
+> Dual-site enterprise lab in EVE-NG with 10+ Cisco devices — Full automation pipeline with Python/Netmiko for OSPF, BGP, VLANs & inter-site VPN
 
-### 🍽️ Restaurant System — نظام مطعم
-> Restaurant ordering & management system with POS and kitchen display
+### 🍽️ Mazaq Restaurant Management System
+> Comprehensive restaurant web system with menu display, order management, admin dashboard for tracking
 
-### 🛒 E-Commerce Store — متجر إلكتروني
-> Full-stack e-commerce platform with payment integration
+### 🛒 E-Commerce & Booking Platform
+> Full-stack web platform with product listings, user registration, role-based admin/user dashboards
+
+### 🧠 AI Exam Application
+> Self-contained 60-question exam app covering AI fundamentals, search algorithms & applied AI tools
 
 ---
 
