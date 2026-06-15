@@ -19,6 +19,9 @@
   <a href="https://mahmoud-portfolio.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff6b35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mahmoud-cv.pdf">
+    <img src="https://img.shields.io/badge/CV%20%26%20Certificates-Download-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV and Certificates" />
+  </a>
 </p>
 
 <!-- Social Links -->
@@ -41,18 +44,18 @@ located_in: Kosti, Sudan 🇸🇩
 university: White Nile University — Faculty of Computer Science & IT (2022–2026)
 major: Information Technology (Network Engineering Focus)
 gpa: 80.86% (6th Semester)
-certifications: CCNA 200-301, Microsoft Office Suite, Java, C++
+certifications: CCNP Enterprise (2026), CCNA 200-301 (2024), Microsoft Office Suite, Java, C++
 languages: [Arabic (Native), English]
 ```
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding"/>
 
 - 🎓 **IT Student** at White Nile University — CS & IT Faculty
-- 🌐 **Network Engineer** — Cisco VLANs, VTP, OSPF, ACLs, VPN, DHCP
+- 🌐 **Network Engineer** — Cisco Certified Network Professional (CCNP) & Associate (CCNA)
+- ⚙️ **Network Automation** — Python (Netmiko), Ansible, EVE-NG, GNS3
 - 📱 **App Developer** — Flutter, Kotlin, Java, Android
 - 🎨 **Graphic Designer** — Brand identity, social media, posters
 - 🔬 **Graduation Project**: *SudaNet* — Enterprise network with Site-to-Site VPN, Firewall, DMZ & Windows Server
-- 🛠️ Experienced with **Packet Tracer, GNS3, EVE-NG**
 - 📊 **12+ completed projects** | **20+ happy clients** | **4+ years experience**
 - 🎯 **Goal**: Professional career in Network Engineering & IT with modern tech solutions
 
@@ -144,6 +147,10 @@ languages: [Arabic (Native), English]
 <a href="https://github.com/mahamoud199/Gaada-Ashab-Pro">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahamoud199&repo=Gaada-Ashab-Pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb&text_color=C9D1D9" />
 </a>
+&nbsp;
+<a href="https://github.com/mahamoud199/Mahmoud-Delivery-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahamoud199&repo=Mahmoud-Delivery-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1f6feb&text_color=C9D1D9" />
+</a>
 
 </div>
 
@@ -152,6 +159,9 @@ languages: [Arabic (Native), English]
 
 ### 🎮 Gaada Ashab Pro — قعدة أصحاب برو
 > Social party game built with Flutter — multiplayer, game modes, achievements, AI-powered questions
+
+### 🚚 Mahmoud Delivery App (Wassel) — تطبيق توصيل طلبات ذكي
+> Feature-rich Flutter app with route optimization, AI chatbot, multi-role dashboards & digital wallet
 
 ### 🎓 SudaNet — مشروع التخرج
 > Enterprise network infrastructure with Site-to-Site VPN, Firewall, DMZ, Windows Server & network services
@@ -179,7 +189,8 @@ languages: [Arabic (Native), English]
     </td>
     <td align="center" width="50%">
       <h3>📜 Certifications</h3>
-      <p>🌐 <b>CCNA 200-301</b> (Cisco)</p>
+      <p>🌐 <b>CCNP Enterprise</b> (Cisco) | 2026</p>
+      <p>🌐 <b>CCNA 200-301</b> (Cisco) | 2024</p>
       <p>💼 Microsoft Office (Excel, Word, PowerPoint)</p>
       <p>☕ Java Programming</p>
       <p>⚙️ C++ Programming</p>
