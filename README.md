@@ -51,6 +51,7 @@ gpa: 80.86% (6th Semester)
 certifications:
   - CCNP Enterprise (Network Plus Institute, 2026)
   - CCNA 200-301 (Network Plus Institute, 2024)
+  - 1 Million Prompters — AI Prompt Engineering (Dubai Future Foundation, 2025)
   - Mobile App Development — Flutter (White Nile University, 2024)
 languages: [Arabic (Native), English (Intermediate)]
 ```
@@ -216,11 +217,11 @@ languages: [Arabic (Native), English (Intermediate)]
     <td align="center" width="50%">
       <h3>📜 Certifications</h3>
       <p>🌐 <b>CCNP Enterprise</b> (Cisco) | 2026</p>
+      <p>🤖 <b><a href="mahmoud-mohamed-certificate.pdf">1 Million Prompters — AI Prompt Engineering</a></b> (Dubai Future Foundation) | 2025</p>
       <p>🌐 <b>CCNA 200-301</b> (Cisco) | 2024</p>
+      <p>📱 <b>Mobile App Dev — Flutter</b> (White Nile University) | 2024</p>
       <p>💼 Microsoft Office (Excel, Word, PowerPoint)</p>
-      <p>☕ Java Programming</p>
-      <p>⚙️ C++ Programming</p>
-      <p>🌍 English Language</p>
+      <p>☕ Java | ⚙️ C++ | 🌍 English</p>
     </td>
   </tr>
 </table>
